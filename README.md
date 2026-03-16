@@ -1,4 +1,4 @@
-# Baby Blue / Baby Purple Chatbot Website
+# Japanese Chatbot Website
 
 A simple chatbot website with a **baby blue + baby purple** theme.
 
